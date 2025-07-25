@@ -12,6 +12,7 @@ app = Flask(__name__)
 INSTANCE_ID = "7103121490"
 API_TOKEN = "5302bc690deb405c9bd36048a27167e4c0baaa81616449da9d"
 VODAFONE_CASH_LINK = "http://vf.eg/vfcash?id=mt&qrId=rMAVF3"
+YOUR_VODAFONE_NUMBER = "01022679250"
 # ======================================================
 
 # تخزين الطلبات في ملف
